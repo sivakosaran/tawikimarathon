@@ -1,3 +1,3 @@
-# Tamil Wiki Marathon 2026 dashboard v2
+# Tamil Wiki Marathon 2026 dashboard v2.1
 
-Immediate page load, asynchronous stats, pre-event mode, batched API queries, countdown and 2-minute cache.
+Adds progress bar, hourly activity, community milestones, selectable task categories and talk-page thank-you links.
